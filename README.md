@@ -54,4 +54,4 @@ Special thanks to the contributors of the Papirus Icon Theme project for their d
 
 ## Contact
 
-If you have any questions, suggestions, or issues related to the Papirus Icon Theme for Windows, please [open an issue](https://github.com/ZacharyZhang-NY/papirus-icon-theme-windows/issues) on
+If you have any questions, suggestions, or issues related to the Papirus Icon Theme for Windows, please [open an issue](https://github.com/ZacharyZhang-NY/papirus-icon-theme-windows/issues).
